@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border-radius: 0.5%;
+  color: rgb(255, 255, 255);
+}
+
+#main {
+  background-color: #52796f;
+  width: 98vw;
+  margin: auto;
+  margin-top: 1%;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 25%;
+}
+
+#name {
+  margin: 40px 0 20px 0;
+}
+
+#intro {
+  margin-bottom: 15px;
+}
+
+.image-article {
+  width: 98%;
+  background-color: #84a98c;
+  margin: auto;
+}
+img {
+  width: 80%;
+  padding: 80px 0 10px 0;
+}
+.image-article-content {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+figcaption {
+  color: black;
+}
+
+.journey-description {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
