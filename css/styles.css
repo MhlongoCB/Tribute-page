@@ -20,7 +20,7 @@
   height: 25%;
 }
 
-#name {
+#title {
   margin: 40px 0 20px 0;
 }
 
@@ -33,21 +33,45 @@
   background-color: #84a98c;
   margin: auto;
 }
-img {
+
+.img-disturb {
+  margin: auto;
   width: 80%;
+}
+#image {
+  max-width: 100%;
   padding: 80px 0 10px 0;
 }
-.image-article-content {
+#img-div {
   text-align: center;
   padding-bottom: 20px;
 }
 
-figcaption {
+#img-caption {
   color: black;
 }
 
-.journey-description {
+#tribute-info-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#tribute-info {
   width: 50%;
   margin: auto;
   margin-top: 100px;
+}
+
+.time-period > li {
+  margin-bottom: 20px;
+}
+
+.quote {
+  margin-top: 50px;
+}
+
+.footer {
+  font-weight: bold;
+  text-align: center;
+  padding: 60px 0 70px 0;
 }
