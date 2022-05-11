@@ -37,9 +37,11 @@
 .img-disturb {
   margin: auto;
   width: 80%;
+  text-align: center;
 }
 #image {
   max-width: 100%;
+  display: block;
   padding: 80px 0 10px 0;
 }
 #img-div {
